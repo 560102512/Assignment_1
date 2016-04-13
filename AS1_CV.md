@@ -31,4 +31,6 @@
 
 ##Skills
 * Fictional (or yet to be discovered)
+ 
+## [Third Assignment](https://github.com/560102512/Assignment_3/blob/master/Assignment%20III.ipynb) 
 
